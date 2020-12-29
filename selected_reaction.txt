@@ -1,0 +1,11 @@
+	23411
+Unnamed: 0	23421.0
+Pyridine	0.3
+Aldehyde	0.2
+Isocyanide	0.3
+Temperature	40.0
+Solvent	0.1
+Catalyst	4.0
+Time	10.0
+Prediction	5.364171428571427
+Variance	2.437833624126985
